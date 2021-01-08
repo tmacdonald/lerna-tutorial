@@ -9,6 +9,9 @@
   "scripts": {
     "start": "npm -C ./packages/usage run start"
   },
+  "publishConfig": {
+    "registry": "http://nexus-repo.svc.tpn.thinkingphones.net/repository/npm-private"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
