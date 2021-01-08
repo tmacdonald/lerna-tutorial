@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node ./index.js"
   },
+  "publishConfig": {
+    "registry": "http://nexus-repo.svc.tpn.thinkingphones.net/repository/npm-private"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
